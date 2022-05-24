@@ -5,7 +5,7 @@ I'm always striving to learn more.
 - 🔭 I’m currently a research fellow with a special focus in propulsion engineering.
 - 📖 I’m currently studying data-driven engineering.
 - 💻 I've completed my very first [site](https://cr0stata.github.io) using [Jekyll+MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
-- 📫 How to reach me: Shoot me an email: stefano.guidolotti at gmail.com, or  <a href="[https://www.linkedin.com/in/matteomanzi00seinfeldwasright/](https://www.linkedin.com/in/stefano-guidolotti/)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="adam pithewan" height="20" width="20" /></a>
+- 📫 How to reach me: Shoot me an email: stefano.guidolotti at gmail.com, or  <a href="[https://www.linkedin.com/in/matteomanzi00seinfeldwasright/](https://www.linkedin.com/in/stefano-guidolotti/)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="adam pithewan" height="15" width="15" /></a>
 
 
 📈 my github stats
