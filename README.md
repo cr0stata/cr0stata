@@ -8,6 +8,6 @@ I'm always striving to learn more.
 - 📫 How to reach me: Shoot me an email: stefano.guidolotti at gmail.com, or  <a href="[https://www.linkedin.com/in/matteomanzi00seinfeldwasright/](https://www.linkedin.com/in/stefano-guidolotti/)" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="adam pithewan" height="15" width="15" /></a>
 
 
-📈 my github stats
+My github stats
 
 [![Cr0stata's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr0stata&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
