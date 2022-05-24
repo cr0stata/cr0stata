@@ -9,4 +9,4 @@ I'm always striving to learn more.
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=gotham" alt="abe-101" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abe-101&show_icons=true&theme=gotham" alt="cr0stata" />
