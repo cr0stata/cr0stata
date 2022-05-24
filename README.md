@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Stefano,  
+My real name is Stefano!
 I'm an aerospace engineer and I am passionate about technology in general.   
 I'm always striving to learn more.
 - 🔭 I’m currently a research fellow with a special focus in propulsion engineering.
