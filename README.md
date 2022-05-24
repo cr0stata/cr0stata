@@ -7,6 +7,7 @@ I'm always striving to learn more.
 - 💻 I've completed my very first [site](https://cr0stata.github.io) using [Jekyll+MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
 - 📫 How to reach me: Shoot me an email: stefano.guidolotti at gmail.com
 
+
 📈 my github stats
 
-[![Cr0stata's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr0stata)](https://github.com/anuraghazra/github-readme-stats)
+[![Cr0stata's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr0stata&hide=contribs,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
