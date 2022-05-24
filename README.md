@@ -8,7 +8,7 @@ I'm always striving to learn more.
 - 📫 How to reach me: Shoot me an email: stefano.guidolotti at gmail.com, or  
 <a href="https://www.linkedin.com/in/matteomanzi00seinfeldwasright/" target="blank"><img align="center"
 src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
-alt="adam pithewan" height="30" width="40" /></a>
+alt="adam pithewan" height="20" width="20" /></a>
 
 
 📈 my github stats
