@@ -13,4 +13,4 @@ I'm always striving to learn more.
 
 My github stats:
 
-                                       [![Cr0stata's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr0stata&hide=contribs,prs,issues&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Cr0stata's GitHub stats](https://github-readme-stats.vercel.app/api?username=cr0stata&hide=contribs,prs,issues&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
