@@ -3,7 +3,7 @@ My real name is Stefano!
 I'm an aerospace engineer and I am passionate about technology in general.   
 I'm always striving to learn more.
 - 🔭 I’m currently a research fellow with a special focus in propulsion engineering
-- 📖 I’m currently studying data-driven engineering, sys optimization and The Julia Programming Language.
+- 📖 I’m currently studying data-driven engineering, sys optimization and Julia.
 - 🎤 I'm a freelance account manager of the [Stardust Podcast](https://anchor.fm/stardust-podcast)
 - 💻 I've completed my very first [site](https://cr0stata.github.io) using [Jekyll+MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
 - 📫 How to reach me: Shoot me an email stefano.guidolotti at gmail.com, or <a href="https://www.linkedin.com/in/stefano-guidolotti/" target="blank">
