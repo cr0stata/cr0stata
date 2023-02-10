@@ -3,7 +3,7 @@ My real name is Stefano!
 I'm an aerospace engineer and I am passionate about technology in general.   
 I'm always striving to learn more.
 - 🚀 I’m research fellow with a special focus in propulsion engineering
-- 📖 I’m currently studying data-driven engineering, sys optimization and Julia.
+- 📖 I’m currently studying sys optimization and its application to propulsion frameworks 
 - 🎤 I was the podcast manager of the [Poincaré Podcast](https://anchor.fm/poincare-podcast)
 - 💻 I've completed my very first [site](https://cr0stata.github.io) using [Jekyll+MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
 - 📫 How to reach me: Shoot me an email stefano.guidolotti at gmail.com, or <a href="https://www.linkedin.com/in/stefano-guidolotti/" target="blank">
