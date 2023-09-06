@@ -1,6 +1,6 @@
 ### Hi there 👋
 My real name is Stefano!
-I'm an aerospace engineer and I am passionate about technology in general.   
+I'm an aerospace engineer and I am in love with tech.   
 I'm always striving to learn more.
 - 🚀 I’m research fellow with a special focus in propulsion engineering
 - 📖 I’m currently studying sys optimization and its application to propulsion frameworks 
