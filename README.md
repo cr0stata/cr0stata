@@ -1,7 +1,7 @@
 ### Hi there 👋
 My real name is Stefano!
-I'm an Aerospace Engineer and I am in love with tech.   
-Always striving to learn more.
+I'm an Aerospace Engineer and I am in love with tech, always striving to learn more.
+
 - 🚀 I am working as Aerothermal Engineer in aerospace propulsion. Soon, I'll be PhD candidate;
 - 📖 Currently, I am studying sys optimization and its application to propulsion frameworks;
 - 🎤 I was the podcast manager of the [Poincaré Podcast](https://anchor.fm/poincare-podcast);
