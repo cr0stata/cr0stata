@@ -1,5 +1,5 @@
 ### Hi there 👋
-My real name is Stefano!
+My name is Stefano!
 I'm an Aerospace Engineer and I am in love with tech, always striving to learn more.
 
 - 🚀 I am working as Aerothermal Engineer in aerospace propulsion. Soon, I'll be PhD candidate;
