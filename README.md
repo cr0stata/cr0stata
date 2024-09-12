@@ -3,7 +3,7 @@ My name is Stefano!
 I'm an Aerospace Engineer and I am in love with tech, always striving to learn more.
 
 - 🚀 I am actively working in R&D engineering, while pursuing a PhD;
-- 🎤 I was research manager of [Poincaré Trajectories](https://anchor.fm/poincare-podcast);
+- 🎤 I was research manager of [Poincaré Trajectories](https://linktr.ee/poincaretrajectories) and [here](https://anchor.fm/poincare-podcast) you find an amazing related podcast;
 - 💻 [Here](https://cr0stata.github.io) you find my website, build on top of [Jekyll+MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
 
 Reach me: Shoot me here stefano.guidolotti at gmail.com, or <a href="https://www.linkedin.com/in/stefano-guidolotti/" target="blank">
