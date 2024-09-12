@@ -2,9 +2,8 @@
 My name is Stefano!
 I'm an Aerospace Engineer and I am in love with tech, always striving to learn more.
 
-- 🚀 I am working as Aerothermal Engineer in aerospace propulsion. Soon, I'll be PhD candidate;
-- 📖 Currently, I am studying CFD and optimization methods w.r.t. propulsion frameworks;
-- 🎤 I was the podcast manager of the [Poincaré Podcast](https://anchor.fm/poincare-podcast);
+- 🚀 I am working as Aerospace Engineer actively working in R&D engineering, while pursuing a PhD;
+- 🎤 I was research manager of [Poincaré Trajectories](https://anchor.fm/poincare-podcast);
 - 💻 [Here](https://cr0stata.github.io) you find my website, build on top of [Jekyll+MinimalMistakes](https://github.com/mmistakes/minimal-mistakes)
 
 Reach me: Shoot me here stefano.guidolotti at gmail.com, or <a href="https://www.linkedin.com/in/stefano-guidolotti/" target="blank">
